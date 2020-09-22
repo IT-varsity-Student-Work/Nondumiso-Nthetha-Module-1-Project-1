@@ -1,0 +1,18 @@
+table{
+    font-family: Helvetica,sans-serif;
+    border border-collapse: collapse;
+    border width: 1px;
+    border border-style: solid;
+    border border-color: aquamarine;
+}
+
+th{
+    font-weight: bold;
+    background-color:lightskyblue;
+    border-color: black;
+}
+
+h1{
+    color:darkturquoise;
+    font-family: cursive;
+}
